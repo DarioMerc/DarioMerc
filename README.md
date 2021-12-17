@@ -1,3 +1,3 @@
 Junior full-stack web developer looking for full time work.
 
-Currently refreshing my PHP knowledge by teaching myself some Laravel and Symfony.
+Currently working on a new MERN project while refreshing my PHP knowledge by practicing some Laravel and Symfony.
