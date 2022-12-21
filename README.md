@@ -1,1 +1,1 @@
-Junior full-stack web developer looking for full time work.
+Currently working as a Software Developer in Angular
