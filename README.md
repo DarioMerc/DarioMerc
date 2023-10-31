@@ -1,1 +1,1 @@
-Currently working as a Software Developer in Angular
+Currently looking for a job as a software/web developer!
